@@ -1,0 +1,3 @@
+-This is the implementation of dna motif strands as mentioned in the following research paper
+-https://ijcrt.org/viewfulltext.php?&p_id=IJCRT2306805
+-The code and implementation is bound by IJCRT
